@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm
+My Tools:
 
-* a python lover
-* a javascript lover
-* a linux lover
-* always studing... 
+* django
+* react
+* linux
+* vim/emacs
