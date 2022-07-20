@@ -2,6 +2,7 @@
 
 My Tools:
 
+* Vyper, Solidty, Brownie, Truffle
 * django
 * react
 * linux
