@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My Tools:
-
-* Vyper, Solidty, Brownie, Truffle
-* django
-* react
-* linux
-* vim/emacs
+* Like Python
+* Like React.js
+* Like Linux
+* Like Emacs
+* Like Blender
+* Like Block Chain
