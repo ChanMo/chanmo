@@ -4,5 +4,5 @@
 * Like React.js
 * Like Linux
 * Like Emacs
-* Like Blender
+* Like Pytorch
 * Like Block Chain
