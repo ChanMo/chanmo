@@ -18,7 +18,8 @@ You can contact me via the following channels:
 
 ## My projects
 
-* Mandu: The knowledge management tool that helps you learn and grow. [https://mandu.dsoou.com](https://mandu.dsoou.com/)
+* Mandu: The knowledge management tool that helps you learn and grow. [https://www.mandu.ink](https://www.mandu.ink/)
 * DSoou: A website that provides free online tools. [https://www.dsoou.com](https://www.dsoou.com)
+* Paper: Paper is an online collaborative document editing platform for creating rich content. [https://paper.md1927.com](https://paper.md1927.com)
 * Hisoul: A New Virtual World For Everyone. [https://hisoul.md1927.com](https://hisoul.md1927.com)
 
