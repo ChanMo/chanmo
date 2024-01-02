@@ -6,14 +6,14 @@ My GitHub page contains all of my open-source projects. These projects cover a v
 
 ## My blog
 
-My blog is [www.chanmo.me](https://www.chanmo.me). I will share my learning experiences, technical skills, and other interesting stuff on the blog.
+My blog is [chanmo.github.io/blog/](https://chanmo.github.io/blog/). I will share my learning experiences, technical skills, and other interesting stuff on the blog.
 
 ## How to contact me
 
 You can contact me via the following channels:
 
 * GitHub: [https://github.com/ChanMo](https://github.com/ChanMo)
-* Blog: [www.chanmo.me](https://www.chanmo.me)
+* Blog: [chanmo.github.io/blog/](https://chanmo.github.io/blog/)
 * Email: chan.mo@outlook.com
 
 ## My projects
